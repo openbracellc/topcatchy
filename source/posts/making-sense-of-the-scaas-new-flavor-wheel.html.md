@@ -1,29 +1,37 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2018-08-14T12:01+02:00
-description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
-image: /images/uploads/news_item-01.jpg
+title: Why Personal Brands Matters for Business Outlook?
+date: 2019-08-09T10:01:00.000Z
+description: Why Personal Brands Matters for Business Outlook?
+image: /images/uploads/potty.png
 ---
+The key to be successful in business is make relations with with people, not companies. Relationships are based on mutual connections and trust. The connection with a human creates a level of customer loyalty and endearment, which exceeds any relationship an enterprise could reach. Even large organizations such as Apple and Tesla have leaders whose personalities promote their brands' missions. If you're a small business owner or freelancer, this persona is likelyto be you. 
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Personal Branding
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+The success of freelancers and entrepreneurs depends on building a successful personal brand. Anyone who has access to social media and the Internet can build a strong audience, attain an expert's position, and attract customers for their business. Globally the freelance network is growing 3 times faster than the general workforce. 
 
-## What the updates mean to you
+By 2030, it's expected that freelancers will represent most of the workforce globally. The secret to differentiating yourself from the competition is developing a compelling and strong personal brand. Here's a brief outlining the importance of a personal brand, the rules to build a strong presence and how to start building a personal brand. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## Why Build a Personal Brand? 
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+When you're starting a business around your domain of expertise, the concept of developing a personal brand comes naturally. If you're the face of the business, building a personal brand makes sense. It's you who differentiates from the competition and helps you form a strong impression in your customers' and audience's mind. 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+If your personal brand doesn't attract your target audience, it'll be difficult to create a sustainable and profitable business. Even if your company has a corporate brand it's still beneficial to build a personal brand. That's because people follow other people rather than company brands. So, your personal brand will increase your company's exposure. 
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+## Benefits 
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+A personal brand is an effective way to stand out from the crowd. It's how you can prove your knowledge and skills in a particular field or niche. It's your chance to connect with your target audience. A personal brand will help you build trust with your prospects. It'll position you as a thought leader and authority in your business sector. 
+
+A strong personal brand will make it easier for you to pitch and be discovered by media outlets such as online publications, television, podcasts and magazines. The media is always searching for industry experts who can share insights with their target audience. When you have a clear personal brand, which reflects who you are and how you can help, it's easier for people to identify the value of following and connecting with you. Build your online and offline network effectively through your personal brand. 
+
+## Your business will grow and evolve. 
+
+You may venture into different industriesthroughout your career. But your personal brand must stay with you as your business evolves. People trust a brand, which connects to a person's face as compared to a corporate brand. 
+
+Developing a personal brand will help you become the go-to source in a specific niche. This way, you'll attract more customers. When you're seen as an expert, people can easily refer clients to you. It also helps demonstrate charging increased prices for your services and products. Otherwise, you're just competing on price. 
+
+## Start Creating a Compelling Personal Brand 
+
+The first step to developing a personal brand isto set a foundation that you can confidently build upon. The key is authenticity. A personal brand doesn't mean creating a persona. A persona is a facade, not a true expression of who you are. Branding is about strategically and intentionally showcasing your true self to your target audience and customers. It must showcase your skills, values, passions, and beliefs. 
+
+Define your message, the media and methods, through which you'll communicate your personal brand. And determine how you can monetize it. A personal brand doesn't necessarily mean that you must be an author, launch courses or run a mastermind even.
