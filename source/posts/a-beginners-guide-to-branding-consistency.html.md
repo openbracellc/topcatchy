@@ -36,9 +36,7 @@ They can advocate and promote your brand on social networks using tools such as 
 
 ## Brand Consistency and Content Marketing
 
-Once you've established a brand guideline and style, use them when you're planning your content marketing strategy.
-
-About 75 percent of shoppers use different channels to make a purchase, according to Wharton School and the Verde Group. Considering the variety of offline and online opportunities, you must maintain consistency across all customer touch points and sales channels.
+Once you've established a brand guideline and style, use them when you're planning your content marketing strategy. About 75 percent of shoppers use different channels to make a purchase, according to Wharton School and the Verde Group. Considering the variety of offline and online opportunities, you must maintain consistency across all customer touch points and sales channels.
 
 ## Use your Company's logo
 
