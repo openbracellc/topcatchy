@@ -28,7 +28,7 @@ After you've identified what you're an expert at, you can nurture it. For exampl
 
 If you grow a strong personal brand, you can take it to the next level and become a thought leader in your specific industry. Find the common ground between the questions people are asking and what you excel at. 
 
-Don't focus on a topic, which nobody cares about. For example, if you're a digital marketer, use a tool such as Zest, which provides relevant and trustworthy content. It also helps you spread the word about the topics you're focusing on. Because it's a community of marketers built for marketers, Zest will help you reach your target audience. 
+Don't focus on a topic, which nobody cares about. For example, if you're a digital marketer, use a services such as KEYSOME, which provides relevant and trustworthy content. It also helps you spread the word about the topics you're focusing on. Because it's a community of marketers built for marketers, KEYSOME will help you reach your target audience. 
 
 ## Social Media Conversations
 
