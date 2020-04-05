@@ -1,29 +1,41 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2018-08-18T09:01+02:00
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /images/uploads/news_item-03.jpg
+title: How to Rule the Branding Market?
+date: 2018-08-01T07:01:00.000Z
+description: How to Rule the Branding Market?
+image: /images/uploads/ok.png
 ---
+Your online reputation can be your best asset or your worst liability. Employees with a solid personal brand have better results in marketing and sales compared to brands. For example, an employees lead are 10x times likelier to convert than others. Personal branding has become a need for anyone looking to develop their business, land their dream job, or improve their career. 
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+When employees share brand messages on social platforms, they achieve a higher reach rate than messages shared by brands. Salespeople who use social selling, outsell 89 percent of those who don't. And marketers who focus on blogging, reach a 20x times increase in return on investment (ROI). So, here's a guide on developing a top-quality and efficient personal brand to grow your business and achieve unbeatable success. 
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Online Reputation Management 
 
-## A little history
+The biggest risk concern for business owners and employees is their reputation. Reputation risk has become a business challenge. About 87 percent of executives focus on reputation risk over other strategic liabilities. The greatest downfall is revenue loss. Companies have always factored in reputation. But now they must manage both their online and offline reputations. It's why entrepreneurs and executives invest large budgets in online reputation management. It's an insurance measure. 
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+## Growing Your Business 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+About 84 percent of decision-makers begin the buying process based on referrals. Google is a trusted source of data and information about brands and people. Based on the information they find or don't find about an employee or brand, decision-makers can drop a vendor. 
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## How Do Other Professionals See You? 
 
-## What you need to know before trying
+Usually, the way you view yourself is different from how others perceive you. You could tend to either overestimate or underestimate yourself for specific traits and skills. When you start building your personal brand, get some information about the type of person you're projecting to others. Talk to past and present colleagues to identify what you excel at. The more insights you receive from others, the more you'll leam about your professional value. 
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Use a tool such as Google forms to conduct online surveys. It's the perfect platform to help you find out how your target audience sees you. Apply the feedback you receive to build and develop your personal brand. 
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+## Build Your Message on a Specific Area of Expertise 
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+After you've identified what you're an expert at, you can nurture it. For example, when you hear the name of a famous writer, your mind is flooded with his image and his books, articles, or blog posts. The emotion and recognition you draw from hearing celebrities' names can apply to your personal brand. 
 
+If you grow a strong personal brand, you can take it to the next level and become a thought leader in your specific industry. Find the common ground between the questions people are asking and what you excel at. 
+
+Don't focus on a topic, which nobody cares about. For example, if you're a digital marketer, use a tool such as Zest, which provides relevant and trustworthy content. It also helps you spread the word about the topics you're focusing on. Because it's a community of marketers built for marketers, Zest will help you reach your target audience. 
+
+## Social Media Conversations
+
+In 2019, around 3 billion users were on social media, according to Statista. By 2021, the figure will reach 3.1 billion. To grow and develop your personal brand, you must have a strong social media presence. Social media is where people learn about other people. The easiest way to learn about someone's personality is by following their social accounts. Social sites also rank well in Google searches. It's likely that people will find your social media accounts before your personal website. 
+
+You must be consistent in maintaining and updating your social accounts. Interact with your followers to learn more about them. Remain consistent in how you interact, speak and share content across all your social accounts and personal website. 
+
+## Your Audience Comes First
+
+Although personal branding is about you, your target audience must hear and follow you. Find the intersection between your expertise and what people are asking. For example, KEYSOME built their personal brand as a [search optimization in chennai](https://keysome.com), and found market opportunities, as they understood their market and identified niches where they could develop SEO as a service.
