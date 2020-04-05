@@ -6,7 +6,7 @@ image: /images/uploads/aquarium.jpg
 ---
 Branding isthe center point of a business's marketing strategy. A company's brand reflects its identity, culture, and reputation. A consistent brand identity helps your target audience recognize your company and know what to expect. Your goal is to provide a positive and memorable brand identity.
 
-Consistent branding helps people perceive you as the same company they've interacted with before. After consistent exposure to a brand, people feel like they knowyour brand and they start to trust you. It takes up to 7 impressions for consumers to remember your brand and connect it with your organization, according to Pam Moore. Displaying a brand consistently on different platforms can boost revenue by 23 percent, according to Forbes. So, here's a brief outlining the best practices for brand consistency to help you build customer trust and increase sales.
+Consistent branding helps people perceive you as the same company they've interacted with before. After consistent exposure to a brand, people feel like they knowyour brand and they start to trust you. It takes up to 7 handshakes for consumers to remember your brand and connect it with your organization. Displaying a brand consistently on different platforms can boost revenue by 23 percent, according to Forbes. So, here's a brief outlining the best practices for brand consistency to help you build customer trust and increase sales.
 
 ## Examine Your Branding Efforts
 
