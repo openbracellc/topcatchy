@@ -18,9 +18,9 @@ Determine what makes your business unique and the values, which drive your busin
 
 ## The Style Guide
 
-A style guide helps you check your visual brand. It's a document that includes rules to follow when a staff memberwants to present, publish, and promote content about your brand. The style guide includes details about fonts, logos, brand colors, signage specifications, branded graphic elements, and typography style. It must also comprise ideal tone and voice, your organization's values and your company's mission. For example, Walmart's Corporate Brand Guidelines covers all aspects of using the Walmart brand.
+A style guide helps you check your visual brand. It's a document that includes rules to follow when a staff memberwants to present, publish, and promote content about your brand. The style guide includes details about fonts, logos, brand colors, signage specifications, branded graphic elements, and typography style. It must also comprise ideal tone and voice, your organization's values and your company's mission. 
 
-It highlights direction on Walmart's editorial voice and howto use the "Walmart" logo online, in print, or on promotional products. Your company may be smaller than Walmart, but you should establish a clear foundation for your brand messaging.
+For example, Walmart's Corporate Brand Guidelines covers all aspects of using the Walmart brand. It highlights direction on Walmart's editorial voice and howto use the "Walmart" logo online, in print, or on promotional products. Your company may be smaller than Walmart, but you should establish a clear foundation for your brand messaging.
 
 ## Internal Branding and the Company Culture
 
