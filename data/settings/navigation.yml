@@ -3,3 +3,4 @@ nav_items:
   - {label: 'Domains', path: '/products/'}
   - {label: 'What's SEO 🡥', path: 'https://blog.keysome.com/'}
   - {label: 'News', path: '/news'}
+  - {label: 'CALL 🡥', path: 'https://openbrace.appointlet.com/s/pricing'}
