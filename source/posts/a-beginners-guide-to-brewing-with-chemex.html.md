@@ -1,26 +1,47 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2018-08-16T12:01+02:00
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /images/uploads/news_item-02.jpg
+title: A Beginners’ Guide to Brand Consistency
+date: '2018-08-16T12:01+02:00'
+description: A Beginners’ Guide to Brand Consistency
+image: /images/uploads/aquarium.jpg
 ---
+Branding isthe center point of a business's marketing strategy. A company's brand reflects its identity, culture, and reputation. A consistent brand identity helps your target audience recognize your company and know what to expect. Your goal is to provide a positive and memorable brand identity.
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Consistent branding helps people perceive you as the same company they've interacted with before. After consistent exposure to a brand, people feel like they knowyour brand and they start to trust you. It takes up to 7 impressions for consumers to remember your brand and connect it with your organization, according to Pam Moore. Displaying a brand consistently on different platforms can boost revenue by 23 percent, according to Forbes. So, here's a brief outlining the best practices for brand consistency to help you build customer trust and increase sales.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+## Examine Your Branding Efforts
 
-## The little secrets of Chemex brewing
+Present the same values, visuals, and brand messaging on all customer touch points, to achieve brand consistency.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Your brand's logo design, website, mobile app, customer support, and marketing messaging must be recognizable. You can achieve consistent branding if you understand your brand's values and unique selling proposition (USP).
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Determine what makes your business unique and the values, which drive your business forward. Develop a visual design, which reflects your brand and which prospects can associate with your brand. If you already have visual elements in place, perform a self-audit and determine if they represent your brand. If not, consider a full visual rebranding.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+## The Style Guide
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+A style guide helps you check your visual brand. It's a document that includes rules to follow when a staff memberwants to present, publish, and promote content about your brand. The style guide includes details about fonts, logos, brand colors, signage specifications, branded graphic elements, and typography style. It must also comprise ideal tone and voice, your organization's values and your company's mission. For example, Walmart's Corporate Brand Guidelines covers all aspects of using the Walmart brand.
+
+It highlights direction on Walmart's editorial voice and howto use the "Walmart" logo online, in print, or on promotional products. Your company may be smaller than Walmart, but you should establish a clear foundation for your brand messaging.
+
+## Internal Branding and the Company Culture
+
+Once you've built a brand voice, which resonateswith your customers, the delivery of your brand experience must match it. This requires the participation of your employees.
+
+Make sure that your onboarding and training courses include brand values. Distribute branded items such as business cards, mugs, shirts and laptop cases to build internal loyalty to your brand.
+
+## Employees as social media brand ambassadors
+
+Build a corporate culture focused on your brand. Your company's employees must buy-in and believe your brand.
+
+They can advocate and promote your brand on social networks using tools such as Everyone Social and GaggleAM P. When your employees understand your brand, they can deliver a consistent brand experience to your customers.
+
+## Brand Consistency and Content Marketing
+
+Once you've established a brand guideline and style, use them when you're planning your content marketing strategy.
+
+About 75 percent of shoppers use different channels to make a purchase, according to Wharton School and the Verde Group. Considering the variety of offline and online opportunities, you must maintain consistency across all customer touch points and sales channels.
+
+## Use your Company's logo
+
+Share visual content elements on your company's network, which employees can access and use. Create a branded template theme for your webcast videos and webinars. Create cover photos for social media networks, which employees can upload onto their accounts, and use the visual elements consistently.
+
+Choose the right topics for your content calendar. Your articles, blog posts, webinars and videos must be consistent with your company's goals and mission. If you serve a specific niche vertical, create content about industry developments.
