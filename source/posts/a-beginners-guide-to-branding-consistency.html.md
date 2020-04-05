@@ -30,9 +30,7 @@ Make sure that your onboarding and training courses include brand values. Distri
 
 ## Employees as social media brand ambassadors
 
-Build a corporate culture focused on your brand. Your company's employees must buy-in and believe your brand.
-
-They can advocate and promote your brand on social networks using tools such as Everyone Social and GaggleAM P. When your employees understand your brand, they can deliver a consistent brand experience to your customers.
+Build a corporate culture focused on your brand. Your company's employees must buy-in and believe your brand. They can advocate and promote your brand on social networks using tools such as Everyone Social and Google AMP. When your employees understand your brand, they can deliver a consistent brand experience to your customers.
 
 ## Brand Consistency and Content Marketing
 
