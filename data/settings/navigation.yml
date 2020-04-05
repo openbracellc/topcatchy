@@ -1,5 +1,5 @@
 nav_items: 
   - {label: 'Home', path: '/'}
   - {label: 'Domains', path: '/products/'}
+  - {label: 'What's SEO 🡥', path: 'https://blog.keysome.com/'}
   - {label: 'News', path: '/news'}
-
