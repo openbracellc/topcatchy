@@ -1,6 +1,6 @@
 nav_items: 
   - {label: 'Home', path: '/'}
-  - {label: 'Domains', path: '/products/'}
+###  - {label: 'Domains', path: '/products/'} 
   - {label: 'Whats SEO 🡥', path: 'https://blog.keysome.com/'}
   - {label: 'News', path: '/news'}
   - {label: 'Contact', path: 'https://keysome.com/contact/'}
