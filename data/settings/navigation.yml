@@ -3,3 +3,5 @@ nav_items:
   - {label: 'Domains', path: '/products/'}
   - {label: 'Whats SEO 🡥', path: 'https://blog.keysome.com/'}
   - {label: 'News', path: '/news'}
+  - {label: 'Contact', path: 'https://keysome.com/contact/'}
+
