@@ -1,10 +1,6 @@
 .product-image { display: none !important; }
 .products .product a {  pointer-events: none;  cursor: default; }
-@media (min-width: 768px) {
-	.products .product {
-		width: 50% !important;
-	}
-}
+@media (min-width: 768px) { .products .product { width: 50% !important; } }
 .weight { display: none !important; } 
 /**  .price { display: none !important; } **/
 .price {color: transparent;   text-shadow: 0px 0px 20px rgba(0,0,0,0.5);   }
