@@ -17,15 +17,14 @@ body {
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome, Opera and Firefox */
 }
-.products .product:nth-child(1) {
-    position: absolute;
-    top: 0;
+.products .product:nth-child(1) a {
     font-family: Gill Sans MT;
     -webkit-transform: rotate(-10deg);
     -moz-transform: rotate(-10deg);
     -ms-transform: rotate(-10deg);
     -o-transform: rotate(-10deg);
     color: red;
+    content: "SOLD";
     text-shadow: 0 0 0 transparent, 0 0 1px orange;
     font-size: 22px;
     left: 15px; }
