@@ -18,7 +18,6 @@ body {
                                   supported by Chrome, Opera and Firefox */
 }
 .products .product:nth-child(1) a:before {
-    text-align: center;
     position: absolute;
     font-family: Gill Sans MT;
     -webkit-transform: rotate(-10deg);
@@ -30,5 +29,6 @@ body {
     font-weight: bold;
     text-shadow: 0 0 0 transparent, 0 0 1px orange;
     font-size: 22px;
-    left: 15px; }
+    left: 50%;
+    right: 50%; }
 /**.products .product:nth-child(1) { background-color: gold !important; } */
