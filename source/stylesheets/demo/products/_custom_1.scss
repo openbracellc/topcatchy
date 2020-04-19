@@ -17,4 +17,16 @@ body {
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome, Opera and Firefox */
 }
-.products .product:nth-child(1) { background-color: gold !important; }
+.products .product:nth-child(1) {
+    position: absolute;
+    top: 0;
+    font-family: Gill Sans MT;
+    -webkit-transform: rotate(-10deg);
+    -moz-transform: rotate(-10deg);
+    -ms-transform: rotate(-10deg);
+    -o-transform: rotate(-10deg);
+    color: red;
+    text-shadow: 0 0 0 transparent, 0 0 1px orange;
+    font-size: 22px;
+    left: 15px; }
+/**.products .product:nth-child(1) { background-color: gold !important; } */
