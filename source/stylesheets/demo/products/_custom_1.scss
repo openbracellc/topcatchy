@@ -1,9 +1,8 @@
-/** .product-image { display: none !important; }
-.products .product a {  pointer-events: none;  cursor: default; } **/
+.product-image { display: none !important; }
+.products .product a {  pointer-events: none;  cursor: default; } 
+
 @media (min-width: 768px) { .products .product { width: 50% !important; } }
 .weight { display: none !important; } 
-
-
 .price { display: none !important; } /**/
 
 
@@ -34,4 +33,4 @@ body {
     text-shadow: 0 0 0 transparent, 0 0 1px orange;
     font-size: 150%;
     left: 50%; top: 10%; }
-.products .product:nth-child(1) { background-color: gold !important; } /** */
+/** .products .product:nth-child(1) { background-color: gold !important; }  */
