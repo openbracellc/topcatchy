@@ -2,6 +2,6 @@ nav_items:
 ###    - {label: 'Home', path: '/'}
   - {label: 'Assets', path: '/products/'} 
 ###  - {label: 'Assets', path: '/products/'} 
-  - {label: 'Whats SEO 🡥', path: 'https://blog.keysome.com/'}
+  - {label: 'Whats SEO 🡥', path: 'https://keysome.com/post'}
 ###    - {label: 'News', path: '/news'}
   - {label: 'Contact', path: 'https://keysome.com/contact/'}
